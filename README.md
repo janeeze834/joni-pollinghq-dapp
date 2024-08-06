@@ -40,7 +40,7 @@ Ensure you have the following packages installed on your PC:
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo/polling-system-dapp.git
+   git clone https://github.com/janeeze34/polling-dapp.git
    ```
 2. Install NPM packages:
    ```sh

@@ -2,8 +2,8 @@
     "name": "pollinghq-dapp",
     "version": "1.0.0",
     "main": "index.js",
-    "repository": "https://github.com/ifeomajane/pollinghq-dapp.git",
-    "author": "ifeomajane <ifeomajane.mr@gmail.com>",
+    "repository": "https://github.com/janeeze34/polling-dapp.git",
+    "author": "jane eze <janeeze34@outlook.com>",
     "license": "MIT",
     "private": true,
     "dependencies": {
