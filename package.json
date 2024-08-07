@@ -1,8 +1,8 @@
 {
-    "name": "pollinghq-dapp",
+    "name": "joni-pollinghq-dapp",
     "version": "1.0.0",
     "main": "index.js",
-    "repository": "https://github.com/janeeze34/polling-dapp.git",
+    "repository": "https://github.com/janeeze834/joni-pollinghq-dapp",
     "author": "jane eze <janeeze34@outlook.com>",
     "license": "MIT",
     "private": true,

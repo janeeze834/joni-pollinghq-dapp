@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/your-repo/polling-system-dapp">
+  <a href="https://github.com/janeeze834/joni-pollinghq-dapp">
     <img src="docs/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -40,7 +40,7 @@ Ensure you have the following packages installed on your PC:
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/janeeze34/polling-dapp.git
+   git clone https://github.com/janeeze834/joni-pollinghq-dapp
    ```
 2. Install NPM packages:
    ```sh
